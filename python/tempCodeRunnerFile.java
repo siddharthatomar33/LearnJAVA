@@ -1,4 +1,4 @@
-cellphone asus=new cellphone();
-        asus.callfriend();
-        asus.vibrate();
-        asus.ring();
+Square abc=new Square();
+        abc.side=4;
+        System.out.println(abc.area());
+        System.out.println(abc.perimeter());
